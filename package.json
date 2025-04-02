@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/red-devils-project/",
+    "build": "vite build --base=/bc_75_-vitalii-mieliet/",
     "preview": "vite preview"
   },
   "devDependencies": {
